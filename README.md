@@ -1,6 +1,6 @@
 # ReMediar - Agenda Online para Idosos
 
-## Versão 3.0 - Iteração 2
+## V2.0 - Iteração 2
 
 ### Novidades nesta versão:
 - Novo esquema de cores (roxo) para melhor contraste
