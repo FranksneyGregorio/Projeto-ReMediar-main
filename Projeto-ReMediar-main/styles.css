@@ -11,7 +11,7 @@ body {
 
 /* HEADER */
 header {
-  background: #4CAF50;
+  background: #6d926e;
   color: #fff;
   padding: 15px 0;
   text-align: center;
@@ -19,7 +19,7 @@ header {
   width: 100%;
 }
 header {
-  background: #4CAF50;
+  background: #754caf;
   color: #fff;
   padding: 15px 0;
   text-align: center;
@@ -107,15 +107,16 @@ nav {
 nav button {
   margin: 5px;
   padding: 10px 15px;
-  background-color: #4CAF50;
+  background-color: #a04caf;
   border: none;
   color: white;
   cursor: pointer;
   border-radius: 3px;
+
 }
 
 nav button:hover {
-  background-color: #45a049;
+  background-color: #a07cb9;
 }
 
 .screen {
@@ -154,6 +155,7 @@ nav button:hover {
   border-radius: 3px;
   font-size: 16px;
   margin-top: 10px;
+  align-items: center;
 }
 
 .button:hover {
