@@ -154,6 +154,7 @@ nav button:hover {
   border-radius: 3px;
   font-size: 16px;
   margin-top: 10px;
+  align-items: center;
 }
 
 .button:hover {
